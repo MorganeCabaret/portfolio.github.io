@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="icon-foxy" horiz-adv-x="1000" >
+<font-face font-family="icon-foxy" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="mobile" unicode="&#xe800;" d="M480 840q42 0 71-29t29-71l0-780q0-40-29-70t-71-30l-380 0q-40 0-70 30t-30 70l0 780q0 42 30 71t70 29l380 0z m-190-940q30 0 50 15t20 35q0 22-20 36t-50 14q-28 0-49-15t-21-35 21-35 49-15z m210 150l0 660-420 0 0-660 420 0z" horiz-adv-x="580" />
+
+<glyph glyph-name="user" unicode="&#xe801;" d="M714 69q0-60-35-104t-84-44h-476q-49 0-84 44t-35 104q0 48 5 90t17 85 33 73 52 50 76 19q73-72 174-72t175 72q42 0 75-19t52-50 33-73 18-85 4-90z m-143 495q0-88-62-151t-152-63-151 63-63 151 63 152 151 63 152-63 62-152z" horiz-adv-x="714.3" />
+
+<glyph glyph-name="location" unicode="&#xe802;" d="M0 473q0 156 110 267t267 110 267-110 110-267q0-123-53-193l-324-430-324 430q-53 70-53 193z m219 0q0-66 46-112t112-46 112 46 46 112-46 112-112 46-112-46-46-112z" horiz-adv-x="754" />
+
+<glyph glyph-name="linkedin" unicode="&#xe803;" d="M0-150l0 1000 1000 0 0-1000-1000 0z m164 729q2-34 25-54t53-23l2 0q35 2 59 24t23 53q-2 33-25 53t-55 21q-35 0-58-22t-24-52z m8-569l144 0 0 434-144 0 0-434z m225 0l144 0 0 242q0 24 4 36 27 52 74 52 72-2 72-97l0-233 145 0 0 248q-2 98-47 149-47 47-119 49-53-2-86-26-21-15-43-47l0 61-144 0q1-18 1-70 0-90-1-364z" horiz-adv-x="1000" />
+
+<glyph glyph-name="paper-plane" unicode="&#xf1d8;" d="M984 844q19-13 15-36l-142-857q-3-16-18-25-8-5-18-5-6 0-13 3l-253 104-135-165q-10-13-27-13-7 0-12 2-11 4-17 13t-7 21v195l482 590-596-516-221 91q-20 8-22 30-1 23 18 33l928 536q9 5 18 5 11 0 20-6z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

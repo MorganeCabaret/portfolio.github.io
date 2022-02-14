@@ -1,0 +1,40 @@
+{
+  "name": "icon-foxy",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "767fede84586366cd7d6c835be745454",
+      "css": "mobile",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "8b80d36d4ef43889db10bc1f0dc9a862",
+      "css": "user",
+      "code": 59393,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "38575a803c4da31ce20d77e1e1236bcb",
+      "css": "paper-plane",
+      "code": 61912,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "22cfc7af2c4f158b37317c65c92b48c2",
+      "css": "location",
+      "code": 59394,
+      "src": "elusive"
+    },
+    {
+      "uid": "09cad6e46ec29b279626434802012bba",
+      "css": "linkedin",
+      "code": 59395,
+      "src": "elusive"
+    }
+  ]
+}
